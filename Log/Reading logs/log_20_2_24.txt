@@ -1,0 +1,15 @@
+What is bi-lstm?
+what is entropy mathematics?
+
+
+BI-LSTM (Bidirectional Long Short-Term Memory):
+
+BI-LSTM is a type of artificial neural network architecture that is well-suited for sequential data processing, such as time series or text data. It's an extension of the Long Short-Term Memory (LSTM) network, which is designed to capture long-term dependencies and patterns in sequential data while mitigating the vanishing gradient problem.
+The "bidirectional" aspect means that BI-LSTM processes the input sequence in both forward and backward directions, allowing it to capture context information from past and future data points simultaneously.
+In applications such as natural language processing (NLP), BI-LSTM networks are commonly used for tasks like sentiment analysis, named entity recognition, and machine translation.
+
+Entropy Mathematics:
+
+Entropy is a concept from information theory that measures the uncertainty or randomness of a system. In the context of data analysis, entropy is often used to quantify the amount of information contained in a dataset or the degree of disorder within a system.
+Entropy can be calculated using various mathematical formulas, such as Shannon entropy or cross-entropy, depending on the specific application and context.
+In machine learning and data analysis, entropy is frequently used for tasks like feature selection, decision tree learning, and anomaly detection. For example, in anomaly detection, entropy can be used to measure the irregularity of data distributions and identify unusual patterns or outliers.
